@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Habaytak Bel Sayf
+
+This log tracks the cryptographic history and versioning for the song **Habaytak Bel Sayf** (habaytak-bel-sayf).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:05:15.629157 | `v1` | `8bb8b48c3f3588959f7ee8453c0b6c847206513e3a5877778fd52e86d42552ed` | `ab8b5aff23841efbf94191097cc4572d979f4c899433dd89406110d50e287d77` | `2026-05-09_habaytak-bel-sayf-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
